@@ -15,7 +15,7 @@ Furthermore, it offers user-friendly access through both a web interface and a t
 
 This flexibility and user-centric design make the project truly versatile and accessible to a wide range of users.
 
-## Author:️ [Archisman Karmakar](https://www.github.com/ArchismanKarmakar)
+
 
 ### Desktop Looks
 ![Desktop Look](https://raw.githubusercontent.com/ArchismanKarmakar/Facebook-Phishing-page-php/main/testing-srt/304934372-11c63039-096d-44f3-8cc4-fb5a59af46cc.png)
